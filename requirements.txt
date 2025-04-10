@@ -1,0 +1,4 @@
+openai
+python-dotenv
+pytest # Optional, but standard for testing
+deepdiff # For showing JSON diffs in tests 
