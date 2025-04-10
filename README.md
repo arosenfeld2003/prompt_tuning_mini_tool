@@ -14,7 +14,7 @@ A testing script (`test_prompt_wrangler.py`) is included to evaluate default pro
     *   Clone the repository (if needed).
     *   Create and activate a Python virtual environment (e.g., `python3 -m venv venv && source venv/bin/activate`).
     *   Install dependencies: `pip install -r requirements.txt`.
-    *   Create a `.env` file in the project root with your OpenAI API key: `OPENAI_API_KEY="YOUR_API_KEY_HERE"`.
+    *   Create a `.env` file in the project root with your OpenAI API key, as show in `.env_example`.
 
 2.  **Run the CLI:**
     ```bash
