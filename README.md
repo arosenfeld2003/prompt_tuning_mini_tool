@@ -34,7 +34,8 @@ A testing script (`test_prompt_wrangler.py`) is included to evaluate default pro
 
 ## TODO (with more time)
 
-*   Implement more robust and comprehensive test cases: fix failing tests, wider range of inputs and edge cases.
+*   Implement more comprehensive test cases: fix failing tests, wider range of inputs and edge cases.
+*   More robust error handling.
 *   Save script output to a file or send directly to another data source.
 *   Explore using the LLM itself to analyze test failures and suggest improvements to the prompts automatically.
 *   Additional prompt engineering; potential use of RAG if we have known data sets of DME.
