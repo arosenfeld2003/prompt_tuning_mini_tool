@@ -1,6 +1,6 @@
 # Prompt Wrangler CLI
 
-A command-line tool to interact with OpenAI's chat completion models for prompt engineering and structured data extraction (JSON).  The goal is analyzing clinical notes from doctors requesting DME.
+A command-line tool to interact with OpenAI's chat completion models for prompt engineering and structured data extraction (JSON).  The goal is analyzing clinical notes from doctors requesting DME. ~1 Hour Completion time.
 
 ## Approach
 
